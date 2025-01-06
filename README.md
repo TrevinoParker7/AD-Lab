@@ -74,11 +74,6 @@ As stated earlier, I used VirtualBox to also create the Windows 10 Pro environme
 
 After this machine was joined with the DC, I then tried accessing it using credentials from 10 users that I previously generated, logging into the Windows 10 VM. Again, to act as if I was a client/user who just got access to the work network and logging in to my first day at work. Each one was able to login with success.
 
-![10 my name](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/87b594fc-1834-456f-8af0-db364893e2c7)
-
-![11 my name inside](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/99a766f7-f079-41b1-9271-9129461214ec)
-
-![12 other user](https://github.com/EricMcclellan1/AD-Lab/assets/147299619/b40c7540-f563-447b-891e-75ba2860a175)
 
 ## Conclusion
 
